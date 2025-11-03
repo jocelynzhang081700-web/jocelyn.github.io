@@ -1,4 +1,4 @@
-![1cd9182a7bb2c77895316998048d78d5](https://github.com/user-attachments/assets/74a82c18-570f-42b6-9544-6f1538401b45)# How might we reinterpret Metal Stamping using wood, screws and 3D printer in D&I workshop?
+# How might we reinterpret Metal Stamping using wood, screws and 3D printer in D&I workshop?
 # 我们如何在D&I工坊中利用木材、螺丝以及 3D 打印机来重新诠释金属冲压工艺？
 ## Key words - Brainstorming   关键词 - 头脑风暴
 
