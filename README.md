@@ -64,6 +64,7 @@ We selected some materials: cardboard, wire, paper cups, clay and double-sided t
 我们选取了一些材料：硬纸板、铁丝、纸杯、粘土、双面胶来诠释我们的构思
 
 ![微信图片_20251027195657_443_1020](https://github.com/user-attachments/assets/278ed01a-e3d4-402e-b7cd-f0fa04365b66)
+
 ![dced841df35063eb43487f043166bf69](https://github.com/user-attachments/assets/52ef9352-e5ee-41a2-8476-e67f6f99a7ec)
 
 
@@ -84,7 +85,8 @@ Using glued wood panels, the main structure was built by cutting and gluing.
 
 ![1cd9182a7bb2c77895316998048d78d5](https://github.com/user-attachments/assets/75923995-e61d-46d5-9429-841ca5334976)
 
-![1cd9182a7bb2c77895316998048d78d5](https://github.com/user-attachments/assets/30d29a9b-31bf-4500-b7c1-00b46853b4d7)
+![4337559e4efe9b91967469b4412ff6f5](https://github.com/user-attachments/assets/683c703b-57a3-4d40-84f4-6bcf7904cb9d)
+
 
 3D Modeling in Blender, the concave die, convex die and fixed opening of the mahjong mold were constructed, and then 3D printing was carried out using PLA material.
 
