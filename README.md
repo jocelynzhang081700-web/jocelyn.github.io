@@ -63,8 +63,8 @@ We selected some materials: cardboard, wire, paper cups, clay and double-sided t
 
 我们选取了一些材料：硬纸板、铁丝、纸杯、粘土、双面胶来诠释我们的构思
 
-![微信图片_20251027195658_444_1020](https://github.com/user-attachments/assets/70414005-3fac-4cac-ae58-337d62e131b3)
 ![微信图片_20251027195657_443_1020](https://github.com/user-attachments/assets/278ed01a-e3d4-402e-b7cd-f0fa04365b66)
-
 ![dced841df35063eb43487f043166bf69](https://github.com/user-attachments/assets/52ef9352-e5ee-41a2-8476-e67f6f99a7ec)
-![c6058bde74513b6506eabaa51ff375a6](https://github.com/user-attachments/assets/6f8c52bc-b7ff-4f53-b4ae-73bd00be6f0d)
+
+
+## 模型制作
