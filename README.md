@@ -8,7 +8,13 @@ Our brainstorming began with the materials. We came up with the idea that substa
 
 ![0d5f960aaf872d68d5a17df921dea7d3](https://github.com/user-attachments/assets/3634324f-41a7-4f72-94f3-7b5d42fe7840)
 
-Next, we recall the process of metal stamping. It applies pressure to the metal sheet through a mold, causing it to undergo plastic deformation, thereby obtaining the desired shape. However, since it requires a great deal of mechanical energy, we pondered: How can we replace this process with limited mechanical energy (such as the strength of the arm)? Should we replace it with some materials that are more malleable and softer, or with thinner and lighter metals (such as aluminum sheets, tin foil sheets)? How can we provide the energy needed for stamping?
+Next, we recall the process of metal stamping. It applies pressure to the metal sheet through a mold, causing it to undergo plastic deformation, thereby obtaining the desired shape. However, since it requires a great deal of mechanical energy, we pondered: 
+
+1. How can we replace this process with limited mechanical energy (such as the strength of the arm)?
+   
+2. Should we replace it with some materials that are more malleable and softer, or with thinner and lighter metals (such as aluminum sheets, tin foil sheets)?
+   
+3. How can we provide the energy needed for stamping?
 
 接着我们回想金属冲压的流程。它通过模具对金属板材施加压力，使其塑性变形，从而获得所需形状。但由于它需要强大的机械能量，所以我们思考：怎么用有限的机械能（比如手臂的力量）来代替这个工艺？是换一些延展性比较好且比较柔软的材料、还是薄一点轻一点的金属（如铝片、锡纸片）？我们如何提供冲压所需的能量？
 
