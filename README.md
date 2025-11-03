@@ -58,10 +58,11 @@ Required materials: screws, 3D printing molds, wood, wood glue
 ![微信图片_20251028001513_471_1020](https://github.com/user-attachments/assets/2b144cd7-d3af-48d1-b25d-65ed15535f70)
 
 ## 草模制作
-![876cfe11a79dd55e45165673a4d70873](https://github.com/user-attachments/assets/62275add-a113-4222-965d-b707c6c73486)
 
-我们选取了一些材料：硬纸板、铁丝、纸杯、粘土、双面胶
-用工具：
+We selected some materials: cardboard, wire, paper cups, clay and double-sided tape to illustrate our concept.
+
+我们选取了一些材料：硬纸板、铁丝、纸杯、粘土、双面胶来诠释我们的构思
+
 ![微信图片_20251027195658_444_1020](https://github.com/user-attachments/assets/70414005-3fac-4cac-ae58-337d62e131b3)
 ![微信图片_20251027195657_443_1020](https://github.com/user-attachments/assets/278ed01a-e3d4-402e-b7cd-f0fa04365b66)
 
