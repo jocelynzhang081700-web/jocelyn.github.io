@@ -30,6 +30,31 @@ Next, we recall the process of metal stamping. It applies pressure to the metal 
 
 
 ## 初步想法
+We have come up with two initial plans:
+
+1. "Scissors" model
+
+Fix the wooden stick with screws, design the handle at one end to be slightly longer, and the other end of the mold to be shorter. Hold the handle with both hands and press inward to achieve "stamping" by leveraging the force of the lever.
+
+2. "Rotation" model
+
+Design the "stamping machine" as shown in the picture, with a groove on the outside. By rotating the handle on the outside, the concave mold can gradually approach and gradually clamp the convex mold, thus achieving the "stamping" process.
+
+Required materials: screws, 3D printing molds, wood, wood glue
+
+
+我们想出两个初步方案：
+
+1. ”剪刀“ 模型
+
+用螺丝固定木棒，手持一端设计稍长，模具一段较短，双手握住手柄向内夹，这样就可以借助杠杆的力量进行”stamping“。
+
+2. ”旋转“模型
+   
+将”冲压机“设计成如图的，有凹槽的模型，通过旋转外侧的手柄，可以让凹模慢慢接近并逐渐夹紧凸模，实现”stamping“的过程
+
+需要材料：螺丝、3D打印模具、木材、木工胶
+
 ![微信图片_20251028001513_471_1020](https://github.com/user-attachments/assets/2b144cd7-d3af-48d1-b25d-65ed15535f70)
 
 ## 草模制作
