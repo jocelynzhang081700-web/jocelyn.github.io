@@ -74,7 +74,9 @@ We finally decided to combine the two approaches: using a rotatable "Fibonacci" 
 我们最终决定结合两个方案：用可旋转的“斐波那契”木摆锤，向可移动的凸模施加推力，推向固定的凹模，完成“冲压”过程，印出“麻将”面包
 
 <img width="1080" height="669" alt="image" src="https://github.com/user-attachments/assets/b1d51001-9de8-49c9-a5b1-f9336f35bcf2" />
-![d67ed852cf7b971525790aab226b0cd6](https://github.com/user-attachments/assets/7f22a18f-5389-4517-8274-5d31313e57d1)
+
+![d67ed852cf7b971525790aab226b0cd6](https://github.com/user-attachments/assets/c3b8265d-f3cd-44e3-9229-f83acfbb3f67)
+
 
 Using glued wood panels, the main structure was built by cutting and gluing.
 
@@ -101,6 +103,7 @@ We also polished the parts where the mold and the wooden board came into contact
 我们还将模具和木板接触的部分进行打磨，以减小摩擦力
 
 ![888d46314c232f5660affea809e9f060](https://github.com/user-attachments/assets/1dd6c327-82f7-4aad-8d5b-617daa38fb12)
+
 ![25a1ef373fd4d872f3b2c0e1dc4bae8b](https://github.com/user-attachments/assets/e9be4665-a098-4626-9fdf-38f542ec009b)
 
 
@@ -108,6 +111,9 @@ Done
 完成！
 
 ## Maker Faire展览
+
 ![6c90e67535c0dca22b88ab3e37f89c1f](https://github.com/user-attachments/assets/1b71161e-5d97-4c4f-bb7d-06fc51e912ee)
+
 ![a12ad53bb891ba3674647f571cfac17c](https://github.com/user-attachments/assets/db7d586b-2c11-434f-bf5a-833cea4a6687)
+
 ![e6eb715eb33d002a5a2eed1e4dad33cc](https://github.com/user-attachments/assets/03c36652-1cc0-4455-bb25-6d4fe73060c9)
