@@ -8,7 +8,7 @@ Our brainstorming began with the materials. We came up with the idea that substa
 
 我们的头脑风暴首先从材料入手，我们联想到用水泥、瓦楞纸甚至冰块可能可以实现金属冲压过程的诠释
 
-![0d5f960aaf872d68d5a17df921dea7d3](https://github.com/user-attachments/assets/3634324f-41a7-4f72-94f3-7b5d42fe7840)
+![StampThisMetal/picture/3DMODEL.jpg]
 
 Next, we recall the process of metal stamping. It applies pressure to the metal sheet through a mold, causing it to undergo plastic deformation, thereby obtaining the desired shape. However, since it requires a great deal of mechanical energy, we pondered: 
 
