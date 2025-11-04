@@ -111,7 +111,6 @@ We also polished the parts where the mold and the wooden board came into contact
 ![3DMODEL](picture/pincailiao.png)
 
 Done
-
 完成！
 
 ![3DMODEL](picture/Done！.png)
@@ -121,6 +120,24 @@ Done
 
 ![post](picture/POST.png)
 
+On the weekend after the model was completed, we participated in the exhibition at Maker Faire and received the following numerous feedbacks: 
+
+1.The audience pointed out that the middle punch block was prone to falling off and the handle was prone to shaking. We plan to solve the structural issues by adding slots, guides and fixation components. 
+
+2. In terms of user experience, since there were instances of accidental operation where people tried to push the handle upwards, we will optimize the handle design to guide the correct rotation or downward force action, and add operation instructions. 
+
+3. Many families have shown great interest in children's courses. We have transformed future thinking into simpler and more understandable children's workshops.
+
+在模型制作完成的周末，我们参与了Maker Faire的展览，收到了如下诸多反馈：
+
+1.结构稳定性：观众指出中间凸模容易掉落、把手有晃动，我们计划通过增加卡槽、导轨及固定组件来解决结构问题。
+
+2.在用户体验方面，由于有人误操作尝试向上推把手，我们将优化把手设计引导正确的旋转或向下施力动作，增加操作指南。
+
+3.许多家庭对儿童课程表现出浓厚兴趣，我们将未来思考转化为更简单易懂的儿童工作坊
+
 ![makerfaire](picture/MAKERFAIRE.jpg)
+
+
 
 ![makerfaire](picture/MAKERFAIRE1.jpg)
