@@ -67,9 +67,9 @@ We selected some materials: cardboard, wire, paper cups, clay and double-sided t
 
 我们选取了一些材料：硬纸板、铁丝、纸杯、粘土、双面胶来诠释我们的构思
 
-![微信图片_20251027195657_443_1020](https://github.com/user-attachments/assets/278ed01a-e3d4-402e-b7cd-f0fa04365b66)
+![草模](picture/草模.jpg)
 
-![dced841df35063eb43487f043166bf69](https://github.com/user-attachments/assets/52ef9352-e5ee-41a2-8476-e67f6f99a7ec)
+![草模2](picture/草模2.jpg)
 
 
 ## 模型制作
@@ -78,27 +78,27 @@ We finally decided to combine the two approaches: using a rotatable "Fibonacci" 
 
 我们最终决定结合两个方案：用可旋转的“斐波那契”木摆锤，向可移动的凸模施加推力，推向固定的凹模，完成“冲压”过程，印出“麻将”面包
 
-<img width="1080" height="669" alt="image" src="https://github.com/user-attachments/assets/b1d51001-9de8-49c9-a5b1-f9336f35bcf2" />
+![fibonacci-sequence](picture/fibonacci-sequence.png)
 
-![d67ed852cf7b971525790aab226b0cd6](https://github.com/user-attachments/assets/c3b8265d-f3cd-44e3-9229-f83acfbb3f67)
+![Final](picture/Final.jpg)
 
 
 Using glued wood panels, the main structure was built by cutting and gluing.
 
 采用胶合木板，进行切割、粘贴完成主体搭建
 
-![1cd9182a7bb2c77895316998048d78d5](https://github.com/user-attachments/assets/75923995-e61d-46d5-9429-841ca5334976)
+![测量](picture/测量.png)
 
-![4337559e4efe9b91967469b4412ff6f5](https://github.com/user-attachments/assets/683c703b-57a3-4d40-84f4-6bcf7904cb9d)
 
+![切割](picture/切割.png)
 
 3D Modeling in Blender, the concave die, convex die and fixed opening of the mahjong mold were constructed, and then 3D printing was carried out using PLA material.
 
 用Blender建模，完成麻将模具凹模、凸模、固定口的搭建，并用PLA材料进行3D打印
 
-![a92ce8b74779005cdb14c9db6d1ac38b](https://github.com/user-attachments/assets/29ab3772-da10-412b-9a32-79fe6b369e4e)
+![3DMODEL](picture/3DMODEL.jpg)
 
-![825ab18b461891b8705735a231ed08b3](https://github.com/user-attachments/assets/869f03ed-3cf0-43f8-bed8-9a1c69740d60)
+![3DMODEL](picture/3D模型.jpg)
 
 Assemble our model, mainly using screws and glue for reinforcement.
 
@@ -108,18 +108,19 @@ We also polished the parts where the mold and the wooden board came into contact
 
 我们还将模具和木板接触的部分进行打磨，以减小摩擦力
 
-![888d46314c232f5660affea809e9f060](https://github.com/user-attachments/assets/1dd6c327-82f7-4aad-8d5b-617daa38fb12)
-
-![25a1ef373fd4d872f3b2c0e1dc4bae8b](https://github.com/user-attachments/assets/e9be4665-a098-4626-9fdf-38f542ec009b)
-
+![3DMODEL](picture/pincailiao.png)
 
 Done
+
 完成！
+
+![3DMODEL](picture/Done！.png)
+
 
 ## Maker Faire展览
 
-![6c90e67535c0dca22b88ab3e37f89c1f](https://github.com/user-attachments/assets/1b71161e-5d97-4c4f-bb7d-06fc51e912ee)
+![post](picture/POST.png)
 
-![a12ad53bb891ba3674647f571cfac17c](https://github.com/user-attachments/assets/db7d586b-2c11-434f-bf5a-833cea4a6687)
+![makerfaire](picture/MAKERFAIRE.jpg)
 
-![e6eb715eb33d002a5a2eed1e4dad33cc](https://github.com/user-attachments/assets/03c36652-1cc0-4455-bb25-6d4fe73060c9)
+![makerfaire](picture/MAKERFAIRE1.jpg)
