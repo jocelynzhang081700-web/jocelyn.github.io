@@ -8,7 +8,7 @@ Our brainstorming began with the materials. We came up with the idea that substa
 
 我们的头脑风暴首先从材料入手，我们联想到用水泥、瓦楞纸甚至冰块可能可以实现金属冲压过程的诠释
 
-![关键词](picture/Final.jpg)
+![关键词](picture/头脑风暴1.jpg)
 
 Next, we recall the process of metal stamping. It applies pressure to the metal sheet through a mold, causing it to undergo plastic deformation, thereby obtaining the desired shape. However, since it requires a great deal of mechanical energy, we pondered: 
 
@@ -27,7 +27,7 @@ Next, we recall the process of metal stamping. It applies pressure to the metal 
 
 我们如何提供冲压所需的能量？
 
-![8b77d08265310ca425935c66f3329e5d](https://github.com/user-attachments/assets/c18c670a-69ff-4070-8cd5-9dd570a3e165)
+![关键词](picture/头脑风暴2.jpg)
 
 
 
@@ -38,26 +38,28 @@ We have come up with two initial plans:
 
 Fix the wooden stick with screws, design the handle at one end to be slightly longer, and the other end of the mold to be shorter. Hold the handle with both hands and press inward to achieve "stamping" by leveraging the force of the lever.
 
-2. "Rotation" model
-
-Design the "stamping machine" as shown in the picture, with a groove on the outside. By rotating the handle on the outside, the concave mold can gradually approach and gradually clamp the convex mold, thus achieving the "stamping" process.
-
-Required materials: screws, 3D printing molds, wood, wood glue
-
-
 我们想出两个初步方案：
 
 1. ”剪刀“ 模型
 
 用螺丝固定木棒，手持一端设计稍长，模具一段较短，双手握住手柄向内夹，这样就可以借助杠杆的力量进行”stamping“。
 
+![剪刀](picture/Scissors.png)
+
+2. "Rotation" model
+
+Design the "stamping machine" as shown in the picture, with a groove on the outside. By rotating the handle on the outside, the concave mold can gradually approach and gradually clamp the convex mold, thus achieving the "stamping" process.
+
 2. ”旋转“模型
    
 将”冲压机“设计成如图的，有凹槽的模型，通过旋转外侧的手柄，可以让凹模慢慢接近并逐渐夹紧凸模，实现”stamping“的过程
 
+![旋转](picture/Rotation.png)
+
+Required materials: screws, 3D printing molds, wood, wood glue
+
 需要材料：螺丝、3D打印模具、木材、木工胶
 
-![微信图片_20251028001513_471_1020](https://github.com/user-attachments/assets/2b144cd7-d3af-48d1-b25d-65ed15535f70)
 
 ## 草模制作
 
