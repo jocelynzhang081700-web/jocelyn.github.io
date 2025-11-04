@@ -1,5 +1,7 @@
 # How might we reinterpret Metal Stamping using wood, screws and 3D printer in D&I workshop?
 # 我们如何在D&I工坊中利用木材、螺丝以及 3D 打印机来重新诠释金属冲压工艺？
+
+
 ## Key words - Brainstorming   关键词 - 头脑风暴
 
 Our brainstorming began with the materials. We came up with the idea that substances like cement, corrugated paper, and even ice cubes might be able to represent the process of metal stamping.
