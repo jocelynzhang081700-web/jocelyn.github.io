@@ -138,6 +138,22 @@ On the weekend after the model was completed, we participated in the exhibition 
 
 ![makerfaire](picture/MAKERFAIRE.jpg)
 
+Short-term Objectives: Improving structural reliability and enhancing user experience by adding card slots, rails and fixation components, completely resolving the issues of dropped dies and wobbling handles, optimizing the handle design, and adding usage guidelines. Organize a small-scale Workshop for hands-on assembly and embossing (optional embossing materials) to obtain feedback.
 
+短期目标——结构可靠性与用户体验的优化，增加卡槽、导轨和固定组件，彻底解决凸模掉落和把手晃动的问题，并优化把手设计、增加使用指南。举办小规模Workshop体验组装、压印（可选择压印材料）以获得反馈。
 
 ![makerfaire](picture/MAKERFAIRE1.jpg)
+
+Long-term objectives - Deepening education and application scenarios:
+
+1. Standardize the production process and offer small-scale workshop experiences
+   
+2. DIY hardware assembly kits (Kits)
+   
+3. Actively seek strategic partnerships with schools, science and technology museums, and enterprises for STEAM education
+
+长期目标——深化教育和应用场景：
+1.将制作流程模版化，小范围工作坊Workshop体验
+2.硬件 DIY 拼装套件（Kits）
+3.积极寻求与学校、科技馆以及企业建立战略合作， STEAM 教育 
+
